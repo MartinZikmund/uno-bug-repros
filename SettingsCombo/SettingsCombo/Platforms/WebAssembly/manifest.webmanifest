@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "SettingsCombo",
+  "display": "standalone",
+  "name": "SettingsCombo",
+  "short_name": "SettingsCombo",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
