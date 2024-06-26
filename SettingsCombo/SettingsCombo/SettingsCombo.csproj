@@ -13,7 +13,7 @@
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
     <ApplicationVersion>1</ApplicationVersion>
     <!-- Package Publisher -->
-    <ApplicationPublisher>O=Martin</ApplicationPublisher>
+    <ApplicationPublisher>Martin</ApplicationPublisher>
     <!-- Package Description -->
     <Description>SettingsCombo powered by Uno Platform.</Description>
     <!--
